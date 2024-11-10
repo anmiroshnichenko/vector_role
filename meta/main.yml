@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: "vector_role"
+  role_name: vector_role
   namespace: aleksandrmiroshnicehnko
   author: Aleksandr Miroshnichenko
   description: install Vector
