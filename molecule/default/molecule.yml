@@ -4,9 +4,8 @@ dependency:
 driver:
   name: docker
 lint: |  
-  set -e
   yamllint .  
-  ansible-lint 
+  ansible-lint .
 platforms:  
   - name: centos7
     image: pycontribs/centos:7
